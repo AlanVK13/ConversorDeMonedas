@@ -29,7 +29,7 @@ El programa se conecta en tiempo real a una API para obtener las tasas actualiza
 2. Asegúrate de tener instalado **JDK 17 o superior**.
 3. Agrega la biblioteca **Gson** al classpath del proyecto (si usas IntelliJ o Eclipse).
 4. Obtén tu APIKEY desde [ExchangeRate-API](https://www.exchangerate-api.com/) y colócala en el archivo `Main.java`:
-   ```java
+5. 
  ---
  
 ## 🛠 Tecnologías utilizadas
