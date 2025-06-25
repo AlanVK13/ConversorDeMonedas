@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String apiKey = "d6d7fb7082998056e98e6e1e";
+        String apiKey = "TU_API_KEY_AQUI"; // Agrega aquí tu clave de forma local
         String url = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/";
 
         try {
